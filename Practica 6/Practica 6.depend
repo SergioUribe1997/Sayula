@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1473293198 source:c:\users\jorge\documents\cucei 2016 b\estructura de datos ii\practicas\practica 6\main.cpp
+	<iostream>
+	"laberinto.h"
+
+1473292645 c:\users\jorge\documents\cucei 2016 b\estructura de datos ii\practicas\practica 6\laberinto.h
+	<fstream>
+	<iostream>
+
